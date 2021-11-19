@@ -1,2 +1,2 @@
 # Facial-Landmarks-Rest-API
-Find the Facial landmarks using dlib, OpenCV, and Python. Received the data in Json formate thorugh the Rest API. 
+Implemented the Facial landmarks using Dlib, OpenCV, and Python. Received the data in JSON format through the Rest API.
